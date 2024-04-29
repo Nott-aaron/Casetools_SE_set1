@@ -14,4 +14,9 @@ public class Cat {
 	{
 		return colour;
 	}
+	
+	public String getName()
+	{
+		return name;
+	}
 }
